@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe.config
+C:\Users\herhe\source\repos\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe
+C:\Users\herhe\source\repos\ResistanceCalculator\bin\Debug\ResistanceCalculator.pdb
+C:\Users\herhe\source\repos\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\ResistanceCalculator\obj\Debug\ResistanceCalculator.exe
+C:\Users\herhe\source\repos\ResistanceCalculator\obj\Debug\ResistanceCalculator.pdb
